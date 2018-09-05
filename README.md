@@ -1,3 +1,3 @@
 # tic tac toe
-C++ practice
-Moves are read from text file
+* C++ practice
+* Moves are read from text file
